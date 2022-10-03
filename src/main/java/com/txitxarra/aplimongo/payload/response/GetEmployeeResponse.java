@@ -2,12 +2,7 @@ package com.txitxarra.aplimongo.payload.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.txitxarra.aplimongo.entity.Favorite;
-import com.txitxarra.aplimongo.entity.Phone;
-import com.txitxarra.aplimongo.entity.Point;
 import lombok.Data;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.mongodb.core.mapping.Field;
 
 import java.util.List;
 
